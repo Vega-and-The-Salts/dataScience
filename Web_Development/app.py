@@ -33,7 +33,6 @@ def info():
             *
         FROM
             geojsonLoc
-        
     ''' 
 
     game_df = pd.read_sql(query, con=conn)
