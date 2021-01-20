@@ -3,9 +3,9 @@
 
 ## Objectives
 - I wanted to continue to build on my skills in Python, as well as get a better understanding of Machine Learning. In this repo you will see that I utilized the the [Pandas] library, as well as [Flask], [NumPy], [SciKitLearn] in order to reinforce some learning after gaining my certification in Data Analytics and Visualization from George Washington University 
-<br />
+
 - [Web Development] is a fullstack project that utilizes Leaflet in order to show the most up to date earthquakes over the last 7 days around the world. 
-<br />
+
 - [Web Scraping] uses the Beautiful Soup, Splinter, and SQLAlchemy libraries in order to scrape information from the USGS site and we save that information to an AWS SQL server and later pull the information from in the [Web Development] application that updates the timelines.
 
 ## Connect with me on [LinkedIn]
