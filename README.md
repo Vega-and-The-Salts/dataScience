@@ -6,10 +6,10 @@
 - Web_Development is a fullstack project within Python. 
 - Beautiful_Soup is a webscraping piece that is helping with continuing education and building in conjunction with Apache NiFi
 
-## Connect with me on LinkedIn  [linkedin]
+## Connect with me on [LinkedIn]
 
 <br />
 <br />
 
 [website]: https://f5veandalive.herokuapp.com/
-[linkedin]: https://www.linkedin.com/in/john-vega-3b4165161/
+[LinkedIn]: https://www.linkedin.com/in/john-vega-3b4165161/
