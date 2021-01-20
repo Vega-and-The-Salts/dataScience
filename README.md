@@ -1,8 +1,8 @@
-## Hi, my name is John - aka Disguyranger on GitHub
+## Hi, my name is John - aka [Disguyranger] on GitHub
 
 
 ## Objectives
-- I wanted to continue to build on my skills in Python, as well as get a better understanding of Machine Learning. In this repo you will see that I utilized the the [Pandas] library, as well as [Flask], [NumPy], [SciKitLearn] in order to reinforce some learning after gaining my certification in Data Analytics and Visualization from George Washington University 
+- In this project I continued to build on my skills in Python, as well as get a better understanding of Machine Learning. In this repo you will see that I utilized the the [Pandas], [Flask], [NumPy], and [SciKitLearn] libraries in order to clean and present data that could predict information based on information gathered. 
 
 - [Web Development] is a fullstack project that utilizes Leaflet in order to show the most up to date earthquakes over the last 7 days around the world. 
 
@@ -14,6 +14,8 @@
 <br />
 <br />
 
+
+[Disguyranger]: https://github.com/Disguyranger
 [Web Scraping]: https://github.com/Vega-and-The-Salts/dataScience/blob/main/Beautiful_Soup.ipynb
 [Web Development]: https://github.com/Vega-and-The-Salts/dataScience/tree/main/Web_Development
 [Pandas]: https://github.com/Vega-and-The-Salts/Machine_Learning/blob/main/Linear_Regression/Linear_Regression.ipynb
