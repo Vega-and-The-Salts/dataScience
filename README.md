@@ -10,8 +10,10 @@
 
 ## Connect with me on [LinkedIn]
 ### Recent Fullstack project: [f5andAlive] 
+
 <br />
 <br />
+
 [Web Scraping]: https://github.com/Vega-and-The-Salts/dataScience/blob/main/Beautiful_Soup.ipynb
 [Web Development]: https://github.com/Vega-and-The-Salts/dataScience/tree/main/Web_Development
 [Pandas]: https://github.com/Vega-and-The-Salts/Machine_Learning/blob/main/Linear_Regression/Linear_Regression.ipynb
